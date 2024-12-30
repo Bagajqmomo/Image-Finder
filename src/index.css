@@ -376,7 +376,7 @@ Gallery
 }
 
 .image-container .img {
-  height: 10rem;
+  height: 16rem;
 }
 
 @media (min-width: 768px) {
