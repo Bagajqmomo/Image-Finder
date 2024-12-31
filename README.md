@@ -8,3 +8,8 @@ Features
 📱 Responsive Design: Optimized for all screen sizes, from mobile to desktop.
 ⚡ Fast Performance: Built with React.js for seamless user experience.
 🎨 Modern UI: Clean and intuitive design for effortless navigation.
+
+Technologies Used
+React.js: Frontend framework.
+Unsplash API: Image data source.
+CSS: Styling for modern and responsive UI.
